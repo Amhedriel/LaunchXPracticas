@@ -4,7 +4,7 @@ Comenzaremos pidiendo información al cliente para poder tener un panorama de cu
 
 Empecemos con información:
 
-* La marca del cliente es **"Abogabot"** pero aún no tiene un Logo*
+* La marca del cliente es **"Abogabot"** pero aún no tiene un [Logo](/Requerimientos/Logo.md)*
 
 * Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web "Abogabot" llenando un formulario.
 
