@@ -26,7 +26,6 @@ Empecemos con información:
 
 * El administrador recibe el pago y debe de ser capaz de verlo en un dashboard para ver la cantidad de ingresos recibidos.
 
-
 ---
 
 \* Pide que lo hagamos nosotros.
