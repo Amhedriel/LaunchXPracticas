@@ -4,9 +4,9 @@ Comenzaremos pidiendo información al cliente para poder tener un panorama de cu
 
 Empecemos con información:
 
-* La marca del cliente es **"Abogabot"** pero aún no tiene un [Logo](/Requerimientos/logo.md "Logo")*
+* La marca del cliente es **"Abogabot"** pero aún no tiene un [Logo](https://github.com/Amhedriel/LaunchXPracticas/blob/master/Practica1/Requerimientos/logo.md "Logo")*
 
-* Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web "Abogabot" llenando un [formulario](/Requerimientos/formulario.md "Formulario").
+* Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web "Abogabot" llenando un [formulario](https://github.com/Amhedriel/LaunchXPracticas/blob/master/Practica1/Requerimientos/formulario.md "Formulario").
 
   * Para dar seguimiento a su demanda, el cliente crea una cuenta en la plataforma y verá el seguimiento de cada una de las actualizaciones del proceso legal.
 
