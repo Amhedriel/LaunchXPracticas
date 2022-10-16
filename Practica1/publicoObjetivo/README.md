@@ -1,4 +1,4 @@
-# Público onjetivo
+# Público objetivo
 
 Identificaremoso y clarificaremos a nuestro público objetivo con una presentación en Miro.
 
@@ -30,10 +30,21 @@ Nos referimos a qué se dedica o qué hace
 * Responsable de...
 
 ## Activity
-Revisemos que actividades ejerce
+Revisemos que actividades ejerce en:
 
-*  
+* Alternativas existentes.
+* Aplicaciones y sitios comunes. 
 
+## Taking Action
+
+O tomar acciones con respecto a sus pensamientos
+
+* Criterio.
+* Necesidades y deseos.
+* Barreras y desafíos.
+* Incentivos.
+* Puntos que adolece.
+* Definicion de éxito.
 
 
 
