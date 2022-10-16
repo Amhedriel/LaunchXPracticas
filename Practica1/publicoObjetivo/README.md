@@ -1,6 +1,6 @@
 # Público objetivo
 
-Identificaremoso y clarificaremos a nuestro público objetivo con una presentación en Miro.
+Identificaremoso y clarificaremos a nuestro público objetivo con una presentación en [Miro](https://miro.com/app/board/uXjVPNwEDHg=/?share_link_id=909205864526 "Público objetivo").
 
 Veremos los perfiles de los usuarios que estamos buscando, necesitaremos a parte de su nombre, nevesitaremos estudios Demographic, Psychographic, Role, Activity, Taking Action.
 
